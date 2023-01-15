@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Kamil-Kalbarczyk.
 - 👀 I'm interested in Front-End technologies.
-- 🌱 My long-term development plan is as follows: HTML -> CSS -> JavaScript -> React.js -> Node.js
 - 💞️ I’m looking to collaborate on any project to get some experience.
 - 📫 How to reach me: k.kalbarczyk1@gmail.com or [my Linkedin profile](https://www.linkedin.com/in/kamil-kalbarczyk/ "Kamil Kalbarczyk Linkedin profile")
 
